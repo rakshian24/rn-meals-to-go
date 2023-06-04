@@ -1,0 +1,2 @@
+export const IOS_STATUS_BAR_HEIGHT = 44;
+export const ANDROID_STATUS_BAR_HEIGHT = 44;
